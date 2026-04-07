@@ -1,0 +1,13 @@
+# database
+data/
+*.db
+
+# system / packages
+*.deb
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.venv/
